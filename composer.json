@@ -1,0 +1,21 @@
+{
+  "name": "colibriphp/session",
+  "description": "Session Library",
+  "keywords": ["php session", "session"],
+  "authors": [
+    {
+      "name": "Ivan Hontarenko",
+      "email": "stewie.dev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Colibri\\Session\\": "src/"
+    }
+  }
+}
