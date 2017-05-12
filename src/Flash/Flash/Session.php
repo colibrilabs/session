@@ -1,6 +1,6 @@
 <?php
 
-namespace Colibri\Session\Flash\Adapter;
+namespace Colibri\Session\Flash\Flash;
 
 use Colibri\Session\Adapter as SessionAdapter;
 use Colibri\Session\Flash\Adapter;
