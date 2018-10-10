@@ -1,13 +1,13 @@
 <?php
 
-namespace Colibri\Session\Adapter;
+namespace Subapp\Session\Adapter;
 
-use Colibri\Session\Adapter;
-use Colibri\Session\SessionException;
+use Subapp\Session\Adapter;
+use Subapp\Session\SessionException;
 
 /**
  * Class CustomFiles
- * @package Colibri\Session\Adapter
+ * @package Subapp\Session\Adapter
  */
 class CustomFiles extends Adapter
 {

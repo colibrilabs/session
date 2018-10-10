@@ -1,10 +1,10 @@
 <?php
 
-namespace Colibri\Session;
+namespace Subapp\Session;
 
 /**
  * Class Adapter
- * @package Colibri\Session
+ * @package Subapp\Session
  */
 abstract class Adapter implements AdapterInterface
 {

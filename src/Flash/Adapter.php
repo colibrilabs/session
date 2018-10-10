@@ -1,6 +1,6 @@
 <?php
 
-namespace Colibri\Session\Flash;
+namespace Subapp\Session\Flash;
 
 /**
  * Class Adapter

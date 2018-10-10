@@ -2,7 +2,7 @@
 
 namespace Sandbox;
 
-use Colibri\Session\Adapter\Files as NativeSession;
+use Subapp\Session\Adapter\Files as NativeSession;
 
 error_reporting(1);
 ini_set('display_errors', 1);

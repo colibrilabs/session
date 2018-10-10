@@ -1,10 +1,10 @@
 <?php
 
-namespace Colibri\Session;
+namespace Subapp\Session;
 
 /**
  * Class SessionException
- * @package Colibri\Session
+ * @package Subapp\Session
  */
 class SessionException extends \Exception
 {

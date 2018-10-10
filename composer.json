@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Colibri\\Session\\": "src/"
+      "Subapp\\Session\\": "src/"
     }
   }
 }

@@ -1,12 +1,12 @@
 <?php
 
-namespace Colibri\Session\Adapter;
+namespace Subapp\Session\Adapter;
 
-use Colibri\Session\Adapter;
+use Subapp\Session\Adapter;
 
 /**
  * Class Redis
- * @package Colibri\Session\Adapter
+ * @package Subapp\Session\Adapter
  */
 class Redis extends Adapter
 {

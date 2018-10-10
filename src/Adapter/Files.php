@@ -1,12 +1,12 @@
 <?php
 
-namespace Colibri\Session\Adapter;
+namespace Subapp\Session\Adapter;
 
-use Colibri\Session\Adapter;
+use Subapp\Session\Adapter;
 
 /**
  * Class Files
- * @package Colibri\Session\Adapter
+ * @package Subapp\Session\Adapter
  */
 class Files extends Adapter
 {

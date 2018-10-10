@@ -1,10 +1,10 @@
 <?php
 
-namespace Colibri\Session\Flash;
+namespace Subapp\Session\Flash;
 
 /**
  * Class FlashException
- * @package Colibri\Session\Flash
+ * @package Subapp\Session\Flash
  */
 class FlashException extends \Exception
 {

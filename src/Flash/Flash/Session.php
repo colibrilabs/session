@@ -1,13 +1,13 @@
 <?php
 
-namespace Colibri\Session\Flash\Flash;
+namespace Subapp\Session\Flash\Flash;
 
-use Colibri\Session\Adapter as SessionAdapter;
-use Colibri\Session\Flash\Adapter;
+use Subapp\Session\Adapter as SessionAdapter;
+use Subapp\Session\Flash\Adapter;
 
 /**
  * Class Session
- * @package Colibri\Session\Flash\Adapter
+ * @package Subapp\Session\Flash\Adapter
  */
 class Session extends Adapter
 {
